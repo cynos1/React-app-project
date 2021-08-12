@@ -1,0 +1,109 @@
+//   const [currentSlide, setCurrentSlide] = useState(0)
+//   console.log(currentSlide, 'currentslide');
+
+  // function handleNext(){
+  //   setCurrentSlide(currentSlide + 1)
+  // }
+
+  // function handlePrev(){
+  //   setCurrentSlide(currentSlide - 1)
+  // }
+
+  // function handleNextDisabled(){
+  //   if (currentSlide === imgarray.length - 1){
+  //     return true
+  //   }
+  // }
+
+  // function handleNextRotate(){
+  //   if (currentSlide === imgarray.length - 1){
+  //     setCurrentSlide(0)
+  //     return
+  //   }
+  //   setCurrentSlide(currentSlide +1)
+  // }
+
+  // function handlePrevDisabled(){
+  //  if (currentSlide === 0){
+  //    return true
+  //  }
+  // }
+
+  // function handlePrevRotate(){
+  //   if (currentSlide === 0){
+  //     setCurrentSlide(imgarray.length - 1)
+  //     return
+  //   }
+  //   setCurrentSlide(currentSlide-1)
+  //  }
+  
+  // //ternary way
+  //  function handlePrevRotate(){
+  //    currentSlide === 0 ? setCurrentSlide(imgarray.length - 1):setCurrentSlide(currentSlide-1)
+  //  }
+
+  // const imgarray=[
+//   `https://images.unsplash.com/photo-1627794463790-3d17ee099a35?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw2NHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60`,
+//   `https://images.unsplash.com/photo-1627662235824-d9f447830c76?ixid=MnwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHw2Nnx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60`,
+//   `https://images.unsplash.com/photo-1622495894289-f47b79f0836c?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80`
+
+// ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {/* <ImageDetailer
+      // image = {imgarray[0]}
+      myinfo = {{name:"cynthia", lastname:"nosiri"}}
+      // name = "cynthia"
+      // lastname = "nosiri"
+      /> */}
+      {/* <img src={imgarray[currentSlide]}></img>
+      <button onClick ={()=>handleNextRotate()} >Next</button>
+      <button onClick ={()=>handlePrevRotate()} >Prev</button> */}
+      {/* <button disabled ={handleNextDisabled()} onClick={()=>handleNext()}>Next</button>
+      <button disabled ={handlePrevDisabled()} onClick={()=>handlePrev()}>Prev</button> */}
+      {/* <button onClick={()=> setCurrentSlide(currentslide-1)}>prev</button>  */}
+      {/* <button onClick={()=> setCurrentSlide(currentslide+1)}>next</button> */}
+      {/* to add javascript in return, use curly braces */}

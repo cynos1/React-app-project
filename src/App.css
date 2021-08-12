@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  border: 1px solid;
+  background-color: bisque;
+  color:red;
+  margin: 34px;
+  right: 0;
+  
+}
+li {
+  list-style: none;
+  background-color: rgb(142, 194, 142);
+  width:170px;
+  height: 30px;
+  cursor: pointer;
+}
+
+
+.split{
+  height: 100%;
+  width:50%;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+
+}
+.container1{
+  
+  
+  left:0;
+ 
+}
